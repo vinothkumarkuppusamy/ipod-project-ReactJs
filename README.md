@@ -1,8 +1,6 @@
 # ipod-project-ReactJs
-# iPod
 
 Built an iPod Web App using React.js.
-
 
 ## Features
 
